@@ -49,25 +49,25 @@ Tenho perfil analítico, visão sistêmica e facilidade para compreender regras 
 ### 💼 Experiência
 
 **Ema Sistemas** — Analista de Serviços
-*fevereiro de 2026 - atual*
+_fevereiro de 2026 - atual_
 Análise, priorização e estimativa de demandas, desenvolvimento em PL/SQL (PostgreSQL) e JavaScript, modelagem de processos de negócio (BPM), criação de relatórios e apoio a iniciativas de BI.
 
 **Useall Software** — Analista de Sistemas
-*novembro de 2021 - outubro de 2025 (4 anos)*
+_novembro de 2021 - outubro de 2025 (4 anos)_
 Levantamento e análise de requisitos para projetos de ERP, modelagem de processos e casos de uso, testes funcionais, desenvolvimento em PL/SQL, testes e validação de APIs com Swagger e Postman, manipulação de dados em JSON, XML e Excel.
 
 **Resicolor Tintas** — Assistente de TI
-*junho de 2019 - novembro de 2021*
+_junho de 2019 - novembro de 2021_
 Suporte à infraestrutura de rede, administração de banco de dados Oracle, suporte e implantação de sistemas TOTVS (Logix e Protheus), atendimento técnico e resolução de incidentes.
 
 <details>
 <summary>Ver experiências anteriores</summary>
 
-**Resicolor Tintas** — Assistente de Contabilidade *(fev 2018 - jun 2019)*
+**Resicolor Tintas** — Assistente de Contabilidade _(fev 2018 - jun 2019)_
 
-**Manchester Química do Brasil** — Auxiliar de Contabilidade *(fev 2017 - fev 2018)*
+**Manchester Química do Brasil** — Auxiliar de Contabilidade _(fev 2017 - fev 2018)_
 
-**Colorminas** — Departamento de Faturamento *(dez 2015 - jun 2016)*
+**Colorminas** — Departamento de Faturamento _(dez 2015 - jun 2016)_
 
 </details>
 
@@ -75,24 +75,8 @@ Suporte à infraestrutura de rede, administração de banco de dados Oracle, sup
 
 ### 🎓 Formação acadêmica
 
-- **Universidade do Extremo Sul Catarinense (UNESC)** — Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de Sistemas *(2021 - 2025)*
-- **UNESC** — Contabilidade *(2015 - 2020)*
-
----
-
-### 🚀 Projetos em destaque
-
-<!-- TODO: adicione aqui 2-4 dos seus repositórios favoritos, por exemplo: -->
-- **[Nome do Projeto](https://github.com/Vent7/nome-do-projeto)** — breve descrição do que o projeto faz e quais tecnologias usa.
-- **[Nome do Projeto 2](https://github.com/Vent7/nome-do-projeto-2)** — breve descrição.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vent7&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+- **Universidade do Extremo Sul Catarinense (UNESC)** — Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de Sistemas _(2021 - 2025)_
+- **UNESC** — Contabilidade _(2015 - 2020)_
 
 ---
 
