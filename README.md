@@ -1,5 +1,6 @@
+cat > README.md << 'EOF'
 <h1 align="center">Olá, eu sou o Guilherme Venturini 👋</h1>
-<h3 align="center">Analista de Requisitos PL | Gestão de Projetos de TI | ERP & Integrações | BPM | PL/SQL | Scrum</h3>
+<h3 align="center">Analista de Sistemas Sênior | Análise de Requisitos | BPMN | PL/SQL | ERP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeventurini-analista-de-sistemas" target="_blank">
@@ -22,6 +23,7 @@ Tenho perfil analítico, visão sistêmica e facilidade para compreender regras 
 - 🌱 Ampliando minha atuação para **Quality Assurance (QA)**: testes de API, automação de testes e CI/CD
 - 💬 Pergunte-me sobre: Levantamento de Requisitos, PL/SQL, ERP, BPM, Integrações de Sistemas
 - 📍 Criciúma, Santa Catarina, Brasil
+- 🗣️ Idiomas: Português (nativo) · Inglês (fluente) · Espanhol (avançado)
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/guilhermeventurini-analista-de-sistemas) · guilhermevent@live.com
 
 ---
@@ -42,22 +44,22 @@ Tenho perfil analítico, visão sistêmica e facilidade para compreender regras 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Competências principais:** PL/SQL · Levantamento de Requisitos · Análise de Sistemas · ERP · BPM · Integrações de Sistemas · Testes Funcionais e de API
+**Competências principais:** PL/SQL · Levantamento de Requisitos · Análise de Sistemas · Análise de Negócios · ERP · BPM · Integrações de Sistemas · Testes Funcionais e de API
 
 ---
 
 ### 💼 Experiência
 
 **Ema Sistemas** — Analista de Serviços
-_fevereiro de 2026 - atual_
-Análise, priorização e estimativa de demandas, desenvolvimento em PL/SQL (PostgreSQL) e JavaScript, modelagem de processos de negócio (BPM), criação de relatórios e apoio a iniciativas de BI.
+_fevereiro de 2026 - atual (7 meses)_
+Análise, priorização e estimativa de demandas, desenvolvimento em PL/SQL (PostgreSQL) e JavaScript, modelagem e automação de processos de negócio (BPM), criação de relatórios e apoio a iniciativas de BI, análise e resolução de incidentes.
 
 **Useall Software** — Analista de Sistemas
 _novembro de 2021 - outubro de 2025 (4 anos)_
 Levantamento e análise de requisitos para projetos de ERP, modelagem de processos e casos de uso, testes funcionais, desenvolvimento em PL/SQL, testes e validação de APIs com Swagger e Postman, manipulação de dados em JSON, XML e Excel.
 
 **Resicolor Tintas** — Assistente de TI
-_junho de 2019 - novembro de 2021_
+_junho de 2019 - novembro de 2021 (2 anos 6 meses)_
 Suporte à infraestrutura de rede, administração de banco de dados Oracle, suporte e implantação de sistemas TOTVS (Logix e Protheus), atendimento técnico e resolução de incidentes.
 
 <details>
@@ -81,3 +83,8 @@ Suporte à infraestrutura de rede, administração de banco de dados Oracle, sup
 ---
 
 <p align="center"><i>Obrigado pela visita! Fique à vontade para entrar em contato. 🚀</i></p>
+EOF
+
+git add README.md
+git commit -m "Atualiza README com título e dados corretos"
+git push
